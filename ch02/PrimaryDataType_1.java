@@ -20,5 +20,6 @@ public class PrimaryDataType_1 {
 		double val7 = 3.55;//기본적으로 모든 실수는 double로 인식한다.
 		double val8 = 43;
 		System.out.println(val5+"\n"+val6+"\n"+val7+"\n"+val8+"\n");
+		
 	}
 }
