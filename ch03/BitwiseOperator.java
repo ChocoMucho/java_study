@@ -1,5 +1,5 @@
 package ch03;
-
+//비트 연산 기초
 public class BitwiseOperator {
 	public static void main(String[] args) {
 		System.out.println(3&10);//0..0011 AND 0..1010 => 0..0010(2)
